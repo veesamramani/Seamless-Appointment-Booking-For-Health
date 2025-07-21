@@ -20,11 +20,6 @@ A simple and efficient doctor appointment booking system that allows users to bo
 - **Authentication**: JWT / Firebase / OAuth
 - **Deployment**: Vercel / Netlify / Heroku / Render
 
-## 📸 Screenshots
-
-| Home | Doctor Search | Booking |
-|------|---------------|---------|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Booking](screenshots/booking.png) |
 
 ## ⚙️ Installation & Setup
 
@@ -75,13 +70,5 @@ npm test
 ## 🤝 Contributing
 
 Contributions are welcome!  
-Please fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-🔗 Drive : https://drive.google.com/drive/folders/1MYep_YPRgkR4mtSfFpegMC1oMdw7yGNP
-
-🌐 Live Demo : https://youtu.be/uNFZ47NE328?si=4X10zMkXyf8rciJx
+Please fork the repository and submit a pull request
  
